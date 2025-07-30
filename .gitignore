@@ -1,0 +1,26 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 가상환경 폴더 (venv라는 이름으로 만들었을 때)
+venv/
+
+# IDE 관련 (VS Code, PyCharm 등)
+.vscode/
+.idea/
+
+# 환경 설정 파일
+.env
+
+# 데이터베이스 파일 (원할 경우)
+*.db
+*.sqlite3
+
+# macOS 관련
+.DS_Store
+
+# 기타 로그/캐시
+*.log
+.cache/
